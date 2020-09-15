@@ -1,1 +1,1 @@
-contains files regarding i/o redirection
+this directory contains files regarding file redirection
